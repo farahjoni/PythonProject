@@ -8,3 +8,4 @@ min_num = min(num,result)
 print(result)
 
 print(min_num)
+4
